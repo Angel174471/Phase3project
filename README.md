@@ -3,7 +3,8 @@
 
 # Chicago Car Crash Data Analysis
 
-![img](images/chicago cars 2.jpeg)
+![chicago cars 2](https://github.com/Angel174471/Phase3project/assets/133706679/41a2fe37-3ff8-4d10-86a7-ab20bdfb0638)
+
 
 ## Overview
 This project focuses on analyzing [Chicago car crash data](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if) collected from 2015 to 2023 with the goal of enhancing vehicle safety and reducing traffic accidents. The analysis involves cleaning the data, converting it to numerical format, and employing various machine learning models for classification.
